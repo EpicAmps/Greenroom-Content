@@ -1,0 +1,37 @@
+[
+  {
+    "id": "voice",
+    "title": "How Your Voice Works",
+    "summary": "Meet the instrument you carry everywhere.",
+    "body": "Air from your lungs passes through the larynx, where your vocal folds vibrate to produce sound. Your throat, mouth, and nasal passages shape that sound into the voice you recognize. Singing involves coordination between breathing, vocal fold vibration, and resonance—not simply pushing more air.",
+    "symbol": "waveform"
+  },
+  {
+    "id": "hydration",
+    "title": "Hydration & Your Voice",
+    "summary": "Small habits that support vocal comfort.",
+    "body": "Drink water regularly throughout the day. Hydration supports the tissues involved in voice production, although drinking water does not directly wet the vocal folds. Dry air and prolonged voice use may increase discomfort. A comfortable environment and sensible breaks can help.",
+    "symbol": "drop"
+  },
+  {
+    "id": "fatigue",
+    "title": "Recognizing Vocal Fatigue",
+    "summary": "Know when to ease off.",
+    "body": "A voice that feels unusually effortful, strained, or hoarse may need rest. Avoid trying to sing through pain. Reduce vocal demands, take breaks, and consider consulting a qualified voice professional if symptoms persist or recur.",
+    "symbol": "heart.text.square"
+  },
+  {
+    "id": "protect",
+    "title": "Protecting Your Voice",
+    "summary": "Take care of your instrument on and offstage.",
+    "body": "Use monitoring that lets you hear yourself without forcing volume. Take breaks during long rehearsals, avoid shouting over loud rooms, and give yourself time to warm up gently. Comfortable technique and manageable volume matter more than brute force.",
+    "symbol": "shield.lefthalf.filled"
+  },
+  {
+    "id": "recovery",
+    "title": "After the Show",
+    "summary": "Give your voice room to recover.",
+    "body": "After demanding singing, reduce unnecessary talking and allow recovery time. Rest, normal hydration, and adequate sleep can help. Persistent hoarseness, pain, or voice loss deserves evaluation by a healthcare professional with voice expertise.",
+    "symbol": "moon.stars"
+  }
+]
