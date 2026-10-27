@@ -1,0 +1,20 @@
+[
+  {
+    "id": "vocal-fundamentals",
+    "name": "Vocal Fundamentals",
+    "summary": "Breath, resonance, registers, and control",
+    "symbol": "waveform"
+  },
+  {
+    "id": "warm-ups",
+    "name": "Warm-Ups",
+    "summary": "Gentle exercises to prepare your voice",
+    "symbol": "sun.max"
+  },
+  {
+    "id": "common-problems",
+    "name": "Common Problems",
+    "summary": "Tension, fatigue, pitch, and tricky transitions",
+    "symbol": "cross.case"
+  }
+]
