@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 2,
+  "categories": "categories.json",
+  "articles": "articles/vocal-health.json",
+  "lessons": [
+    "lessons/vocal-fundamentals.json",
+    "lessons/warm-ups.json",
+    "lessons/common-problems.json"
+  ]
+}
